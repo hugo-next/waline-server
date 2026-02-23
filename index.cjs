@@ -1,5 +1,4 @@
 const Application = require('@waline/vercel');
-const fetch = require('node-fetch');
 
 module.exports = Application({
   region: false,   // 关闭内置解析
